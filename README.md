@@ -1,7 +1,7 @@
 # **Breast Cancer Classification with Decision Trees**
 
 **Overview**  
-This **machine learning classification project implements decision tree algorithms to analyze the Wisconsin Breast Cancer dataset. The project leverages Python's scientific computing ecosystem to build, optimize, and visualize decision tree models that classify breast cancer cases as malignant or benign based on cell nucleus features.
+This machine learning classification project implements decision tree algorithms to analyze the Wisconsin Breast Cancer dataset. The project leverages Python's scientific computing ecosystem to build, optimize, and visualize decision tree models that classify breast cancer cases as malignant or benign based on cell nucleus features.
 
 **Key Features**  
 ✔ **Data Analysis** – Loads and examines the Wisconsin Breast Cancer dataset from scikit-learn.  
